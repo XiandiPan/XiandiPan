@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Cindy 👋
+#### 😄 I’m a passionate software developer with expertise in HTML, CSS, JavaScript, Flask, Python, Express, React, TypeScript, SQL, GraphQL, and Node.js.
+####  🔭 I'm open to diverse opportunities that allow me to collaborate with other talented developers and further expand my experience.
+#### 👯 Let's connect @ cindypan2023@gmail.com 📫
+
+
 
 <!--
 **XiandiPan/XiandiPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
